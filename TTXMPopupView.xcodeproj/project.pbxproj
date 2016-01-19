@@ -105,6 +105,7 @@
 		8466964C1C4E67B6007692DA /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				CLASSPREFIX = TTXM;
 				LastUpgradeCheck = 0720;
 				ORGANIZATIONNAME = taitanxiami;
 				TargetAttributes = {
